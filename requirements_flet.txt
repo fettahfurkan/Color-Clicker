@@ -1,0 +1,14 @@
+# AutoClicker Flet - Gerekli Bağımlılıklar
+# Modern Flet UI ile AutoClicker uygulaması için gereksinimler
+
+# Ana framework
+flet>=0.21.0
+
+# Sistem entegrasyonu (mevcut bağımlılıklar korundu)
+pyautogui==0.9.54
+pynput==1.7.6
+Pillow==10.1.0
+
+# Ek gereksinimler
+dataclasses-json>=0.6.0  # Veri modelleri için (Python 3.6 uyumluluğu)
+typing-extensions>=4.0.0  # Type hints desteği

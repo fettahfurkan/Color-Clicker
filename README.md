@@ -217,6 +217,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 - GitHub: [@fettahfurkan](https://github.com/fettahfurkan)
 - Proje Linki: [https://github.com/fettahfurkan/Color-Clicker](https://github.com/fettahfurkan/Color-Clicker)
+- LinkedIn: https://www.linkedin.com/in/fettahfurkan
 
 ---
 
